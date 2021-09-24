@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.panel_1{
+    width: 30%;
+    height: 30em;
+    background-color: white;
+    border: .5em; 
+    border-color: black;
+    margin: .25em;
+    text-align: center;
+}
+.panel_2{
+    width: 30%;
+    height: 30em;
+    background-color: white;
+    border: .5em; 
+    border-color: black;
+    margin: .25em;
+    text-align: center;
+}
+.panel_3{
+    width: 30%;
+    height: 30em;
+    background-color: white;
+    border: .5em; 
+    border-color: black;
+    margin: .25em;
+    text-align: center;
+}
