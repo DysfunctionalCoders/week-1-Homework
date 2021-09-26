@@ -51,20 +51,20 @@ button {
 }
 
 .First-Page {
-    
+    border: 5px solid red;
     align-items: center;
     justify-content: center;
     
 }
 
 .Second-Page {
-    
+    border: 5px solid red;
     align-items: center;
     justify-content: flex-start;
 }
 
 .Third-Page {
-   
+    border: 5px solid red;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
