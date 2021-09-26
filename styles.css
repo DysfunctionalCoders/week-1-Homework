@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+}
+
+section {
+    overflow: auto;
+    
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px 0 0;
+    background: white;
+    height: 100vh;
+    width: 100%;
+}
+
+h1 {
+    text-decoration: underline; 
+    font-size: 3.5em;
+    text-align: center;
+    } 
+
+h2 {
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    border: solid;
+    text-decoration: underline;
+}
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h4{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    font-family: 'Chicken Hut', sans-serif;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+button {
+    border-bottom: solid black 5px;
+    border-right: solid black 5px;
+}
+
+.First-Page {
+    border: 5px solid red;
+    align-items: center;
+    justify-content: center;
+}
+
+.Second-Page {
+    border: 5px solid red;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.Third-Page {
+    border: 5px solid red;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
