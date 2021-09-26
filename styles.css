@@ -54,7 +54,6 @@ button {
     border: 5px solid red;
     align-items: center;
     justify-content: center;
-    
 }
 
 .Second-Page {
@@ -66,7 +65,7 @@ button {
 .Third-Page {
     border: 5px solid red;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-direction: column;
 }
 
