@@ -14,7 +14,8 @@ section {
 
 h1 {
     text-decoration: underline; 
-    font-size: 4em;
+    font-size: 3.5em;
+    text-align: center;
     } 
 
 h2 {
@@ -53,7 +54,7 @@ button {
     border: 5px solid red;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    
 }
 
 .Second-Page {
