@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.panel{
+    padding-top: 2%;
+    width: 30%;
+    height: 35em;
+    background-color: white;
+    border: .5em; 
+    border-color: black;
+    margin: .25em;
+    text-align: center;
+}
+
+.social_media_text{
+    text-decoration: none;
+    font-size: 24;
+}
+
+#nature_img{ 
+        margin-right: auto;
+        padding-top: 3em;
+        width: 90%;
+}
+   
+#flag_img{
+    width: auto;
+    height: 9em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contact{
+    text-decoration: underline; 
+    font-size: 36;  
+}
+
+#contact_info{
+    margin-top: 3em;
+    text-align: left;
+    margin-left: 1em;
+}
+
+#vit_img{
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1em;
+    width: auto; 
+    height: 5em; 
+}
+
+.box_black{
+    width:250px; 
+	height:10px; 
+	background-color: black;
+    justify-content: center;
+    margin: auto;
+}
+/* 
+#silent_auction{
+    font-weight: 500;
+} */
+
+#auction_text{
+    margin-top: 3em;
+    text-align: left;
+    margin-left: 1em;
+}
+
+#whiskey_img{ 
+    margin-left: auto;
+    margin-right: auto; 
+    padding-top: auto;
+    width: 17em;
+    /* height: auto; */
+    /* justify-content: bottom; */
+} 
+
+
