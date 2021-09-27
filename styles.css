@@ -13,17 +13,18 @@ body{
     margin: .25em;
     text-align: center;
 }
+
+.social_media_text{
+    text-decoration: none;
+    font-size: 24;
+}
+
 #nature_img{ 
         margin-right: auto;
         padding-top: 3em;
         width: 90%;
 }
    
- /* .facebook_img{
-        width: 25px;
-        height: 25px;
-}  */
-
 #flag_img{
     width: auto;
     height: 9em;
@@ -58,11 +59,10 @@ body{
     justify-content: center;
     margin: auto;
 }
-
+/* 
 #silent_auction{
     font-weight: 500;
-    padding: 1px;
-}
+} */
 
 #auction_text{
     margin-top: 3em;
