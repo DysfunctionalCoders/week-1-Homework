@@ -1,0 +1,58 @@
+
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.bos {
+background-color: lightgray;
+}
+
+.bos1 {
+    
+    position: relative;
+     left: 65px;
+}
+
+
+
+.power {
+    position: relative;
+top: 15px;
+left: 12px;
+
+}
+
+.local {
+    position: relative;
+    top: 25px;
+    font-size: 40px;
+    
+}
+
+.info {
+    position: relative;
+    top: 25px; 
+}
+
+.power1 {
+
+background-color: lightgray;
+
+}
+
+.helpful {
+    position: relative;
+    top: 40px;
+    font-size: 15px;
+
+}
+
+.logo {
+    background-color: lightgray;
+}
+.contribute {
+    font-size: 36px;
+    border-bottom: 7px solid black;
+    border-top: 7px solid black;
+}
