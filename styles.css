@@ -1,0 +1,19 @@
+
+.flex-container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.flex-child {
+    Flex: 1;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+hr{
+    width: 60px; color: black; 
+}
