@@ -1,5 +1,4 @@
-section{
-    /* border: 3px solid black; */
+section{    
     padding: 20px;
     text-align: center;
 
@@ -11,17 +10,14 @@ img {
     margin-right: auto;
     border-radius: 5px;
 }
-h1{
-    /* font-family: Georgia, Arial, sans-serif; */
+h1{    
     font-family: "Space Mono", monospace;
 }
-p{
-    /* font-family: Arial, Helvetica, sans-serif; */
+p{    
     font-family: Muli, sans-serif;
 }
 .block1 h1{
-    font-weight: bold;
-    /* font-variant: small-caps; */
+    font-weight: bold;    
     text-transform: uppercase;
 }
 .container{
