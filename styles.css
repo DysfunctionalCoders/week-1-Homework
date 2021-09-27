@@ -1,0 +1,33 @@
+h1{
+    font-family:Sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: lighter;
+       
+}
+h2{
+    font-family:sans-serif;
+    text-align: center;  
+    font-weight: 900; 
+    font-size: xx-large;
+}
+
+p{
+    font-family:open sans- light;
+    line-height: 2mm;
+}
+div{
+    display: relative;
+    float: left;
+    width: 300px;
+    height: 700px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
