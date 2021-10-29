@@ -11,16 +11,15 @@ This does not need to be pixel perfect! We are leaving it up to your creativity.
 
 DO NOT WORRY ABOUT MATCHING THE FONT
 
-We are looking the use of :
+Things to focus on:
 
 - the formatting of context/text using CSS
 - the page layout
 - borders!
 
-
 Bonus: Add a music player!
 
-To receive credit for this assignment, please submit a pull request **NO LATER THAN MONDAY 12:00 PM PST**
+
 
 #### Reference
 
